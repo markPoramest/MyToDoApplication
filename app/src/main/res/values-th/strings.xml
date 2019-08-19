@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My ToDo Application</string>
+    <string name="Login">ลงชื่อเข้าสู่บัญชีของคุณ</string>
+    <string name="Log">ลงชื่อเข้าใช้</string>
+    <string name="Email">อีเมล</string>
+    <string name="Password">รหัสผ่าน</string>
+    <string name="register">ยังไม่มีบัญชีผู้ใช้? สมัครเลย</string>
+    <string name="Welcome" translatable="false">ยินดีต้อนรับสู่ แอพ My ToDo!</string>
+</resources>

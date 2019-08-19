@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My ToDo Application</string>
+    <string name="Login">Login To Your Account</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Log">Login</string>
+    <string name="register">"Don't have an account? Register</string>
+    <string name="Mytodo" translatable="false">"My ToDo Application</string>
+    <string name="Welcome">"Welcome to My ToDo application!</string>
+</resources>
